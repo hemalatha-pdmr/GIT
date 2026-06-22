@@ -1,2 +1,2 @@
 console.log("hi");
-console.log("Learning git");
+console.log("learning git");
