@@ -1,2 +1,1 @@
-console.log("hi");
-console.log("learning git");
+console.log("hi git");
